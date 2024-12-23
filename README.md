@@ -12,16 +12,17 @@ Este projeto é um criador de **Pixel Art**, uma ferramenta web onde é possíve
 ---
 
 ## Funcionalidades
-- **Desenho em Grade de Pixels**: Permite desenhar pixel art com uma interface de grade.
-- **Escolha de Cores**: Escolha a cor de cada pixel.
-- **Tamanho da Grade**: Ajuste a resolução da grade de pixels.
-- **Limpar Tela**: Apague todos os pixels e comece de novo.
-- **Salvar Imagem**: Exporte sua criação como uma imagem PNG.
+1. **Desenho em Grade de Pixels**: Permite desenhar pixel art com uma interface de grade.
+2. **Escolha de Cores**: Escolha a cor de cada pixel.
+3. **Tamanho da Grade**: Ajuste a resolução da grade de pixels.
+4. **Limpar Tela**: Apague todos os pixels e comece de novo.
+5. **Salvar Imagem**: Exporte sua criação como uma imagem PNG.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
